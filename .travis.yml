@@ -7,8 +7,7 @@ addons:
 install:
   - git clone https://github.com/flutter/flutter.git -b stable --depth 1
   - export PATH=C:\src\flutter\bin:$PATH
-script:
-  - flutter packages get
+
 cache:
   directories:
     - $HOME/.pub-cache
