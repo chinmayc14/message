@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 import 'package:message/pages/ConversationPage.dart';
-import 'package:message/pages/ConversationPageList.dart';
+import 'package:message/pages/ConversationPageSlide.dart';
 
 void main() {
   MaterialApp app = MaterialApp(
     home: Scaffold(
-      body: ConversationPageList(),
+      body: ConversationPageSlide(),
     ),
   );
   testWidgets('Conversation UI', (WidgetTester tester) async {

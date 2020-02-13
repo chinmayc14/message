@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:message/pages/ConversationPageList.dart';
+import 'package:message/pages/RegisterPage.dart';
 
 void main() => runApp(Message());
 
@@ -12,7 +12,7 @@ class Message extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: ConversationPageList(),
+      home: RegisterPage(),
     );
   }
 }
