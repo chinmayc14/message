@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "943140003878",
+    "firebase_url": "https://messenger-e9049.firebaseio.com",
+    "project_id": "messenger-e9049",
+    "storage_bucket": "messenger-e9049.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943140003878:android:bbbdf23608d3de88b046e7",
+        "android_client_info": {
+          "package_name": "com.chinmaycc.message"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943140003878-l6dkncpp2vsv9nj5lska80blt03hv1gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYSyxzX-gTV4gBDKd81kMExJ18Cn_Qe9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943140003878-l6dkncpp2vsv9nj5lska80blt03hv1gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

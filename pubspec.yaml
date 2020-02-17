@@ -26,6 +26,13 @@ dependencies:
   intl: ^0.16.1
   flutter_launcher_icons: ^0.7.4
   infinite_listview: ^1.0.0
+  firebase_auth: ^0.14.0+4 #to auth with firebase
+  google_sign_in: ^4.0.7 #to auth with google account
+  flutter_bloc: ^0.21.0 #helps in implementing blocs
+  equatable: ^0.5.0 #helps in comparing class using their values
+  cloud_firestore: ^0.12.9+1 #Firebase Database
+  image_picker: ^0.6.1+4 #image picker used for picking images from gallery
+  firebase_storage: ^3.0.6
 
 dev_dependencies:
   flutter_test:
